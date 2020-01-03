@@ -1,0 +1,2 @@
+# Database_Project
+Project Name: Yelp kind Database Summary: Built a JAVA application that runs queries on Yelp data and extracts useful information. The user can filter the search results using available business attributes. For this, we designed a conceptual schema using the (E)ER Data model. Converted the EER schema to tables and then implemented these tables in the Oracle database. Use the dataset in JSON to get the data. Technology Stack: Java, Oracle SQL, Json, JQuery, JDBC, Xml, HTML5
